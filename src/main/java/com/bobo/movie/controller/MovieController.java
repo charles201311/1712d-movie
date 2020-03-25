@@ -16,7 +16,7 @@ import com.bobo.movie.vo.MovieVO;
 public class MovieController {
 	
 	//1711F 完成开发
-	
+	//1712D 完成开发
 	
 	
 	@Resource
