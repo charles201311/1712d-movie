@@ -13,8 +13,11 @@ import com.bobo.movie.service.MovieService;
 import com.bobo.movie.vo.MovieVO;
 
 @Controller
-
 public class MovieController {
+	
+	//1711F 完成开发
+	
+	
 	
 	@Resource
 	private MovieService movieService;
