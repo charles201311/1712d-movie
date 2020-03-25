@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.bobo.movie.domain.Movie;
 import com.bobo.movie.service.MovieService;
 import com.bobo.movie.vo.MovieVO;
-
+//dev的提交
 @Controller
 public class MovieController {
 	
